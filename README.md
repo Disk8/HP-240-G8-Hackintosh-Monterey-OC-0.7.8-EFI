@@ -1,0 +1,1 @@
+# HP-240-G8-Hackintosh-Monterey-OC-0.7.8-EFI
