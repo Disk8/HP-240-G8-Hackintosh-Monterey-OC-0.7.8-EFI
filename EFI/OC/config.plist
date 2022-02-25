@@ -1053,7 +1053,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>FVFD77ZXMNHP</string>
+			<string>xxxxxxxxxxx</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -1077,7 +1077,7 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFD77ZXMNHP</string>
+			<string>xxxxxxxxxxxx</string>
 			<key>SystemUUID</key>
 			<string>D17A6BB2-EB91-4D91-AD0A-95F81A7CAED1</string>
 			<key>SystemVersion</key>
