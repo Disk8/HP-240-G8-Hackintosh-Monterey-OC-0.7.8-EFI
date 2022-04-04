@@ -32,6 +32,8 @@ macOS Monterey 12.2
 
 11.Sleap/Wake
 
+12.WiFi (intel ax201)
+
 ----------------------------------------------------------------------------------------------------
 
 #Doesn't Work:
@@ -40,6 +42,5 @@ macOS Monterey 12.2
 
 2.TouchPad
 
-3.Wifi RTL.xxxxxx (Need to be replaced by Intel AX201NGW)
 
 
