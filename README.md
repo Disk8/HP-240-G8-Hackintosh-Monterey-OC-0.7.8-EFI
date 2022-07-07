@@ -34,13 +34,15 @@ macOS Monterey 12.2
 
 12.WiFi (intel ax201)
 
+13. TouchPad (thanks to @8DireZ3)
+
 ----------------------------------------------------------------------------------------------------
 
 #Doesn't Work:
 
 1.HDMI
 
-2.TouchPad
+
 
 
 
